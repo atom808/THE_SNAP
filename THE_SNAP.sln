@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "THE_SNAP_WEB", "THE_SNAP_WEB\THE_SNAP_WEB.csproj", "{02266FEF-B0A6-47D2-8F66-E734908535E7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02266FEF-B0A6-47D2-8F66-E734908535E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02266FEF-B0A6-47D2-8F66-E734908535E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02266FEF-B0A6-47D2-8F66-E734908535E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02266FEF-B0A6-47D2-8F66-E734908535E7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {384C7242-93B0-43CF-B6A3-D0A7E4D81F96}
+	EndGlobalSection
+EndGlobal
