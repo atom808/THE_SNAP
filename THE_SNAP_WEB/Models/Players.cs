@@ -24,5 +24,41 @@ namespace THE_SNAP_WEB.Models
         public double Weight { get; set; }
 
         public string Position { get; set; }
+
+        //stats
+
+        public int GamesPlayed { get; set; }
+
+        public int PassAttempts { get; set; }
+
+        public int CompletedPasses { get; set; }
+
+        public int PassTDs { get; set; }
+
+        public int PassYards { get; set; }
+
+        public int Interceptions { get; set; }
+
+        public int RushTDs { get; set; }
+
+        public int RushYards { get; set; }
+
+        public int Fumbles { get; set; }
+
+        public int ForcedFumbles { get; set; }
+
+        public int FumbleRecoveries { get; set; }
+
+        public int Tackles { get; set; }
+
+        public int Sacks { get; set; }
+
+        public int SacksAllowed { get; set; }
+
+        public int ReceivingYards { get; set; }
+
+        public int ReceivingTDs { get; set; }
+
+
     }
 }
